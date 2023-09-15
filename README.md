@@ -114,10 +114,4 @@
   <img src="https://profile-counter.glitch.me/AgbotonWebDev/count.svg?"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AgbotonWebDev/AgbotonWebDev/output/snake.svg" alt="Snake animation" />
-
-###

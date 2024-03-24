@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [www.atticawebdev.com](www.atticawebdev.com)
+- 👯 My portfolio [www.atticawebdev.com](www.atticawebdev.com)
 
 - 📫 How to reach me **agboton.dev@proton.me**
 

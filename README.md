@@ -1,4 +1,4 @@
-<h2 align="center">Salut 🙇, je m'appelle 🤙 Dylan Agboton</h2>
+<h2 align="center">Salut, je m'appelle Dylan Agboton./h2>
 
 ###
 

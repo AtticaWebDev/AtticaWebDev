@@ -1,4 +1,4 @@
-<h2 align="center">Salut 🙇, je m'appelle 🤙 Dylan Agboton [Attica]</h2>
+<h2 align="center">Salut 🙇, je m'appelle 🤙 Dylan Agboton</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">Je suis un DÉVELOPPEUR WEB FULL-STACK 💻 basé à Paris, spécialisé en React JS. Je crée des applications web réactives et performantes, alliant expertise front-end et back-end pour offrir des expériences utilisateur de qualité.<br><br>🔭 Je suis à la recherche d'un contrat d'apprentissage<br><br>🌱 J'apprends actuellement NextJS<br><br>📫 Comment me joindre agboton.dev@proton.me</p>
+<p align="center">Je suis un développeur JavaScript autodidacte et récemment lancé dans le freelancing. Passionné par le développement web, je me spécialise dans la création d'applications performantes avec React JS, en combinant à la fois des compétences front-end et back-end pour offrir des expériences utilisateur de qualité.<br><br>Je continue à apprendre et à évoluer, en ce moment, je me forme activement sur Php.<br><br>Si vous souhaitez me contacter, n'hésitez pas à m'écrire à d.agboton.dev@gmail.com</p>
 
 ###
 

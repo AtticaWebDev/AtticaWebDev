@@ -35,7 +35,6 @@
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AtticaWebDev&theme=dracula&hide_border=false&border_radius=5" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtticaWebDev&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/>
 </p>
 
@@ -44,8 +43,8 @@
 ## 📫 Me contacter
 
 📧 Email : d.agboton.dev@gmail.com  
-💼 LinkedIn : [linkedin.com/in/tonprofil](#)  
-🐦 Twitter : [@tonpseudo](#)  
+💼 LinkedIn : [www.linkedin.com/in/dylan-agboton](#MonProfilLinkedin)  
+  
 
 ---
 

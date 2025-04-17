@@ -1,23 +1,17 @@
-<h1 align="center">👋 Hello, je suis Dylan</h1>
+<h1 align="center">Hey, moi c'est Atticalf 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVpOGRlNTBhMG51Zm80anlxbmMwMWRhaWVpbTY0cHNrZHJvNHkzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ufih8wi8B8cvXt6/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  Développeur web freelance spécialisé en stack PERN (PostgreSQL, Express, React, Node.js).<br>
-  Passionné par le code, l'optimisation et les interfaces modernes. Autodidacte, rigoureux et toujours prêt à apprendre.<br>
-  Actuellement disponible pour des missions en développement web.  
+  Développeur Web Fullstack 
 </p>
 
 ---
 
-## 🧠 À propos de moi
+### 🚀 À propos de moi
 
-- 🔧 Je conçois des applications web performantes, scalables et maintenables.
-- 🚀 Mon focus : la qualité du code, l'expérience utilisateur, et les bonnes pratiques.
-- 📚 J’approfondis constamment mes compétences (actuellement PHP & Docker avancé).
-- 🤝 J’aime collaborer avec des équipes produit, tech ou design sur des projets ambitieux.
+- 🔧 Autodidacte passionné par la stack **JavaScript / PERN**
+- 🎯 Objectif 2025 : vivre du **freelance** & construire des projets solides
+- 🧠 En apprentissage constant : dev, business, RP... la boucle ne s'arrête jamais
+
 
 ---
 

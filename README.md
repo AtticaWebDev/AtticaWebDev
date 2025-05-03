@@ -10,7 +10,7 @@
 
 - 🔧 Autodidacte passionné par la stack **JavaScript / PERN**
 - 🎯 Objectif 2025 : vivre du **freelance** & construire des projets solides
-- 🧠 En apprentissage constant : dev, business, RP... la boucle ne s'arrête jamais
+- 🧠 En apprentissage constant : dev, business... la boucle ne s'arrête jamais
 
 
 ---

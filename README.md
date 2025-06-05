@@ -1,28 +1,28 @@
-<h1 align="center">Salut, moi c'est Dylan 👋</h1>
-<h3 align="center"><em>Développeur Web Fullstack Freelance</em></h3>
+<h1 align="center">Salut, moi c’est Dylan 👋</h1>
+<h3 align="center"><em>Développeur Web Freelance, passionné par la stack JavaScript (PERN)</em></h3>
 
 <p align="center">
-  🔧 Je transforme des idées en solutions digitales performantes et modernes.
+  🧠 Curieux de nature, j’aime comprendre, construire, et rendre les choses simples et efficaces.
 </p>
 
 ---
 
-## 🚀 À propos de moi
+## 👨‍💻 À propos
 
-- 🎯 Passionné par **JavaScript**, **TypeScript** et l’écosystème **PERN**
-- 💼 Freelance basé à Paris, j’accompagne entreprises & entrepreneurs dans leurs projets web
-- 🧠 Apprenant constant : clean code, bonnes pratiques, architecture scalable
-- 🤝 Ouvert aux opportunités et collaborations ambitieuses
+- 🛠️ Je bosse principalement avec **React**, **Node.js**, **TypeScript**, **PostgreSQL** et **Express**
+- 🚀 J’accompagne startups, freelances et porteurs de projets à donner vie à leurs idées côté web
+- 🎯 Mon kiff ? Rendre les interfaces fluides, rapides et accessibles, sans négliger le back
+- 📍 Basé à Paris, mais ouvert aux projets partout (le web, c’est sans frontières)
 
 ---
 
-## 🛠️ Tech Stack & Outils
+## ⚙️ Stack & outils préférés
 
 <table align="center">
   <tr>
     <th>Front-end</th>
     <th>Back-end</th>
-    <th>Outils & DevOps</th>
+    <th>Outils & Autres</th>
   </tr>
   <tr>
     <td align="center">
@@ -32,39 +32,18 @@
       <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 Statistiques GitHub
+## 📊 Un peu de stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtticaWebDev&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="GitHub Stats" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtticaWebDev&theme=tokyonight" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtticaWebDev&show_icons=true&count_private=true&theme=radical" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtticaWebDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="350" />
-</p>
-
----
-
-## 📬 Me contacter
-
-<p align="center">
-  📧 <a href="mailto:d.agboton.dev@gmail.com">d.agboton.dev@gmail.com</a> &nbsp; | &nbsp;
-  💼 <a href="https://www.linkedin.com/in/dylan-agboton" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
-  🌐 <em>Portfolio en construction</em>
-</p>
-
----
-
-<p align="center" style="font-style: italic; color:#999;">
-  Merci pour ta visite 🙌 N'hésite pas à me contacter pour discuter tech, projets ou simplement échanger !
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Attica

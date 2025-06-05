@@ -1,51 +1,70 @@
-<h1 align="center">
-  <span style="color:#4CAF50;">👋 Salut, moi c'est Dylan</span><br/>
-  <sub><em>Développeur Web Fullstack & Freelance JavaScript / PERN</em></sub>
-</h1>
-
-<p align="center" style="font-size:1.1rem; color:#777;">
-  Transformer des idées en solutions digitales performantes et modernes 🚀
-</p>
-
----
-
-## 🎯 Qui suis-je ?
-
-- 👨‍💻 Passionné par **JavaScript** et la stack **PERN**  
-- 🚀 Freelance ambitieux, toujours en quête d’amélioration et de projets enrichissants  
-- 📚 Apprenant perpétuel : dev, architecture, business et bonnes pratiques  
-- 🤝 Ouvert aux collaborations qui challengent et font grandir  
-
----
-
-## 🛠️ Tech Stack & outils
-
-| Front-end                         | Back-end                        | Outils & DevOps                       |
-| -------------------------------- | ------------------------------ | ----------------------------------- |
-| ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Sass](https://skillicons.dev/icons?i=sass) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Postgres](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![VSCode](https://skillicons.dev/icons?i=vscode) ![NPM](https://skillicons.dev/icons?i=npm) ![Yarn](https://skillicons.dev/icons?i=yarn) |
-
----
-
-## 📊 GitHub en chiffres
+<h1 align="center">Salut, moi c'est Dylan 👋</h1>
+<h3 align="center"><em>Développeur Web Fullstack Freelance</em></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtticaWebDev&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub stats" width="450" />
+  🔧 Je transforme des idées en solutions digitales performantes et modernes.
+</p>
+
+---
+
+## 🚀 À propos de moi
+
+- 🎯 Passionné par **JavaScript**, **TypeScript** et l’écosystème **PERN**
+- 💼 Freelance basé à Paris, j’accompagne entreprises & entrepreneurs dans leurs projets web
+- 🧠 Apprenant constant : clean code, bonnes pratiques, architecture scalable
+- 🤝 Ouvert aux opportunités et collaborations ambitieuses
+
+---
+
+## 🛠️ Tech Stack & Outils
+
+<table align="center">
+  <tr>
+    <th>Front-end</th>
+    <th>Back-end</th>
+    <th>Outils & DevOps</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtticaWebDev&show_icons=true&count_private=true&theme=tokyonight&hide=stars" alt="GitHub Stats" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtticaWebDev&theme=gruvbox" alt="GitHub Streak" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtticaWebDev&theme=tokyonight" alt="GitHub Streak" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtticaWebDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="350" />
 </p>
 
 ---
 
-## 📬 Contacte-moi
+## 📬 Me contacter
 
-| Email                          | LinkedIn                                       | Portfolio                |
-| ------------------------------ | ---------------------------------------------- | ------------------------ |
-| <a href="mailto:d.agboton.dev@gmail.com">d.agboton.dev@gmail.com</a> | [linkedin.com/in/dylan-agboton](https://www.linkedin.com/in/dylan-agboton) | *en construction*        |
+<p align="center">
+  📧 <a href="mailto:d.agboton.dev@gmail.com">d.agboton.dev@gmail.com</a> &nbsp; | &nbsp;
+  💼 <a href="https://www.linkedin.com/in/dylan-agboton" target="_blank">LinkedIn</a> &nbsp; | &nbsp;
+  🌐 <em>Portfolio en construction</em>
+</p>
 
 ---
 
-<p align="center" style="font-style: italic; color:#555;">
-  Merci d'être passé par ici, n’hésite pas à me contacter pour parler tech ou projets 🤝
+<p align="center" style="font-style: italic; color:#999;">
+  Merci pour ta visite 🙌 N'hésite pas à me contacter pour discuter tech, projets ou simplement échanger !
 </p>

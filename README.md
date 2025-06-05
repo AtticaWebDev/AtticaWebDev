@@ -1,53 +1,51 @@
-<h1 align="center">Hey, moi c'est Dylan 👋</h1>
+<h1 align="center">
+  <span style="color:#4CAF50;">👋 Salut, moi c'est Dylan</span><br/>
+  <sub><em>Développeur Web Fullstack & Freelance JavaScript / PERN</em></sub>
+</h1>
+
+<p align="center" style="font-size:1.1rem; color:#777;">
+  Transformer des idées en solutions digitales performantes et modernes 🚀
+</p>
+
+---
+
+## 🎯 Qui suis-je ?
+
+- 👨‍💻 Passionné par **JavaScript** et la stack **PERN**  
+- 🚀 Freelance ambitieux, toujours en quête d’amélioration et de projets enrichissants  
+- 📚 Apprenant perpétuel : dev, architecture, business et bonnes pratiques  
+- 🤝 Ouvert aux collaborations qui challengent et font grandir  
+
+---
+
+## 🛠️ Tech Stack & outils
+
+| Front-end                         | Back-end                        | Outils & DevOps                       |
+| -------------------------------- | ------------------------------ | ----------------------------------- |
+| ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JS](https://skillicons.dev/icons?i=js) ![TS](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Sass](https://skillicons.dev/icons?i=sass) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Postgres](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![VSCode](https://skillicons.dev/icons?i=vscode) ![NPM](https://skillicons.dev/icons?i=npm) ![Yarn](https://skillicons.dev/icons?i=yarn) |
+
+---
+
+## 📊 GitHub en chiffres
 
 <p align="center">
-  Développeur Web Fullstack 
+  <img src="https://github-readme-stats.vercel.app/api?username=AtticaWebDev&show_icons=true&count_private=true&theme=gruvbox" alt="GitHub stats" width="450" />
 </p>
-
----
-
-### 🚀 À propos de moi
-
-- 🔧 Autodidacte passionné par la stack **JavaScript / PERN**
-- 🎯 Objectif 2025 : vivre du **freelance** & construire des projets solides
-- 🧠 En apprentissage constant : dev, business... la boucle ne s'arrête jamais
-
-
----
-
-## 🛠️ Compétences techniques
-
-### 🎨 Front-end
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,sass,bootstrap" height="40"/>
-</p>
-
-### ⚙️ Back-end
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sequelize,mongodb" height="40"/>
-</p>
-
-### 🧰 Outils & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,firebase,npm,yarn" height="40"/>
-</p>
-
----
-
-## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtticaWebDev&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtticaWebDev&theme=gruvbox" alt="GitHub Streak" width="350" />
 </p>
 
 ---
 
-## 📬 Me contacter
+## 📬 Contacte-moi
 
-- 📧 Email : d.agboton.dev@gmail.com  
-- 💼 LinkedIn : [linkedin.com/in/dylan-agboton](https://www.linkedin.com/in/dylan-agboton)  
-- 🌐 Portfolio : *à venir*
+| Email                          | LinkedIn                                       | Portfolio                |
+| ------------------------------ | ---------------------------------------------- | ------------------------ |
+| <a href="mailto:d.agboton.dev@gmail.com">d.agboton.dev@gmail.com</a> | [linkedin.com/in/dylan-agboton](https://www.linkedin.com/in/dylan-agboton) | *en construction*        |
 
 ---
 
-<p align="center"><em>Merci pour votre visite ! N'hésitez pas à explorer mes projets ou à me contacter pour une collaboration.</em></p>
+<p align="center" style="font-style: italic; color:#555;">
+  Merci d'être passé par ici, n’hésite pas à me contacter pour parler tech ou projets 🤝
+</p>

@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Salut, moi c’est Dylan 👋</h1>
-<h3 align="center"><em>Développeur Web Freelance — React, Node.js & la stack PERN 💻</em></h3>
+<h3 align="center"><em>Développeur Web Freelance — React, Node.js 💻</em></h3>
 
 <p align="center">
   J’aime coder des trucs utiles, beaux et rapides. Et je kiffe quand tout fonctionne sans friction 🧠⚡

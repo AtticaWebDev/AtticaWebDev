@@ -14,7 +14,7 @@
 
 ## 🧩 Qui je suis
 
-- 👨‍💻 Dév fullstack spécialisé JS / TS — côté **React**, **Node.js**, **PostgreSQL**, **MongoDB**
+- 👨‍💻 Dév fullstack spécialisé JS — côté **React**, **Node.js**, **PostgreSQL**, **MongoDB**
 - 🧱 Je construis des apps web solides, simples à maintenir, et vraiment pensées pour l’utilisateur
 - 🌍 Freelance à Paris mais dispo pour des projets aux quatre coins du Web
 - 🤝 J’aime les collabs humaines, le code propre et les projets bien ficelés

@@ -45,14 +45,6 @@
 
 ---
 
-## 🐍 Activity snake (parce que c’est cool)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AtticaWebDev/AtticaWebDev/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📬 Me contacter
 
 <p align="center">
